@@ -1,4 +1,4 @@
-- 👋 I am @SOms3Piol, embarking on a journey through the realms of technology and innovation.
+- 👋 I am @AbdullahAdeel, embarking on a journey through the realms of technology and innovation.
 - 👀 I'm interested in  FullStack Development ,and curious about the algorithms working in ML
 - 🌱 I am immersing myself in the intricate world of FullStack Development, continuously expanding my knowledge and skills.
 - 💞️ I am eager to join teams with like-minded individuals and visionaries to create groundbreaking solutions and share transformative ideas.
